@@ -61,7 +61,7 @@
 </template>
 
 <script setup>
-const correctPassword = 'enzo' 
+const correctPassword = 'milanmylove' 
 let passwordInput = ref('')
 const errorMessage = ref('')
 const autorisation = ref(false)

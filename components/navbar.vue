@@ -3,7 +3,7 @@
     <div class="w-1/6 m-8 brico-800">
       <nuxt-link to="/">
         <h1 class="text-3xl flex items-center">
-          MHDev
+          EEDev
         </h1>
       </nuxt-link>
     </div>

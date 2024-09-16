@@ -90,7 +90,7 @@
             >
               <div class="absolute inset-0">
                 <img
-                  src="../assets/images/milan.jpeg"
+                  src="../assets/images/enzo-petit.png"
                   class="rounded-xl h-full object-cover shadow-black/40 w-full"
                 />
               </div>
